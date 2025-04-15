@@ -8,10 +8,16 @@ layout: home
 permalink: /
 
 ---
-<!-- ![banner image](shenzhen.jpeg) -->
-<p align="center">
-	<img src="figures/dc1.jpg" width="750">
-</p>
+<figure style="text-align: center;">
+  <img src="figures/dc1.jpg" width="750">
+  <figcaption style="font-weight: bold;">
+    IEEE ICDM 2025<br>
+    25th IEEE International Conference on Data Mining<br><br>
+    November 12-15, 2025<br>
+    Washington DC, USA
+  </figcaption>
+</figure>
+
 
 <br/>
 
