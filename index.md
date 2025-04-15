@@ -4,13 +4,13 @@
 
 layout: home
 #layout: page
-#title: PSTDA@DSAA2023
+#title: DMAIL 2025@IEEE ICDM 2025
 permalink: /
 
 ---
 <!-- ![banner image](shenzhen.jpeg) -->
 <p align="center">
-	<img src="figures/banner.jpg" width="750">
+	<img src="figures/dc1.jpg" width="750">
 </p>
 
 <br/>
