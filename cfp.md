@@ -38,7 +38,7 @@ permalink: /cfp/
 
 # **Submission Guideline and Reviewing**
 **Submission Instructions:** 
-- Step 1: Login and enter ICDM conference in EasyChair. Website: [https://easychair.org/conferences/?conf=dsaa2023](https://easychair.org/conferences/?conf=dsaa2023)
+- Step 1: Login and enter ICDM conference in EasyChair. Website: [(TBA)](https://easychair.org/conferences/?conf=dsaa2023)
 - Step 2: Select your role as "author". From the top menu, click the "New Submission" button, and then select "DMAIL 2025: The First International Workshop on Data Mining and AI for Law" to continue.
 - Step 3: Enter your paper information and then use the "Submit" button at the bottom of the form.
 
@@ -52,7 +52,7 @@ permalink: /cfp/
 
 <br/> -->
 **Proceedings, Indexing, and Special Issues:**
-- <div style="text-align: justify"> All accepted full-length special session papers will be published by IEEE in the DSAA main conference proceedings under its Special Session scheme. All papers will be submitted for inclusion in the IEEEXplore Digital Library. The conference proceedings will be submitted for EI indexing through INSPEC by IEEE.</div>
+- <div style="text-align: justify"> All submissions will be triple-blind reviewed by the Program Committee based on technical quality, relevance to the scope of the workshop, originality, significance, and clarity. Manuscripts must be submitted electronically through the EasyChair (TBA).</div>
 
 <!-- 
 - Submissions must be original work and should not be under submission to other venues at the time of review.
