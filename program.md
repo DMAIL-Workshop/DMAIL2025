@@ -4,8 +4,8 @@ title: Program
 permalink: /program/
 order: 1
 ---
-### **Conference Program**
-**DSAA2023 conference program can be found here.**
+### **Kyenote**
+**TBD**
 
 <!-- **PSTDA2023 Special Session is TBD.** -->
 
