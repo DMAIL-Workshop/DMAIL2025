@@ -22,7 +22,7 @@ permalink: /
 
 <br/>
 
-Welcome to the DMAIL 2025: The First International Workshop on Data Mining and AI for Law. The 25th IEEE International Conference on Data Mining ([ICDM2025](https://www3.cs.stonybrook.edu/~icdm2025/index.html)).
+Welcome to the DMAIL 2025: The First International Workshop on Data Mining and AI for Law. It is a workshop of 25th IEEE International Conference on Data Mining ([ICDM2025](https://www3.cs.stonybrook.edu/~icdm2025/index.html)).
 
 <br/>
 
