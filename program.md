@@ -12,7 +12,7 @@ order: 1
 **Pay careful  attention to the time zone difference!**
 
 ### **Special Session Schedule**
-TBA
+TBD
 <!-- **Date: Saturday 15 October 2022 (UTC+11, AEDT, Australia)** -->
 
 <!-- | <div style="width:150px"> Time Slot </div>    | <div style="width:180px">  Activity </div>   |  Speaker   |
@@ -35,7 +35,7 @@ TBA
 
 ### **Accepted Papers**
 
-TBA
+TBD
 <!-- We have received 22 submissions across the world this year and 8 papers have been accepted for oral presentation with the acceptance rate around 36%.
 
 - #151 "Federated Deep Recommendation System Based on Multi-View Feature Embedding", Wang, Xinna; Meng, Shunmei; Chen, Yanran; Li, Qianmu; Yuan, Rui; Liu, Qiyan
