@@ -15,7 +15,7 @@ permalink: /
 
 <br/>
 
-Welcome to the DSAA2023 Special Session on Private, Secure, and Trust Data Analytics (PSTDA2023). It is a special session of the 10th IEEE International Conference on Data Science and Advanced Analytics ([DSAA2023](https://conferences.sigappfr.org/dsaa2023/)).
+Welcome to the DMAIL 2025: The First International Workshop on Data Mining and AI for Law. The 25th IEEE International Conference on Data Mining (ICDM) ([ICDM2025](https://www3.cs.stonybrook.edu/~icdm2025/index.html)).
 
 <br/>
 
