@@ -79,7 +79,7 @@ permalink: /cfp/
 <div style="text-align: justify"> <B>Authorship:</B> The list of authors at the time of submission is considered final and any further changes of the authorship are not allowed.</div>
 </br>
 
-<div style="text-align: justify"> <B>Dual Submissions:</B> DSAA is an archival publication venue as such submissions that have been previously published, accepted, or are currently under consideration at other peer-review publication venues (i.e., journals, conferences, workshops with published proceedings, etc) are not permitted.</div>
+<div style="text-align: justify"> <B>Dual Submissions:</B> ICDM is an archival publication venue as such submissions that have been previously published, accepted, or are currently under consideration at other peer-review publication venues (i.e., journals, conferences, workshops with published proceedings, etc) are not permitted.</div>
 </br>
 
 <div style="text-align: justify"> <B>Conflicts of Interest (COI):</B> COIs must be declared at the time of submission. COIs include employment at the same institution within the past three years, collaborations during the past three years, advisor/advisee relationships, plus family and close friends.</div>
