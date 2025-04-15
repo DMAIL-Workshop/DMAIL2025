@@ -4,6 +4,8 @@ title: Organization
 permalink: /organization/
 ---
 
+## **Organizer**
+
 <table width="100%" cellspacing="0" cellpadding="10">
   <tr>
     <td width="33%" align="center" valign="top">
