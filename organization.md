@@ -6,61 +6,18 @@ permalink: /organization/
 
 ## **Organizer**
 
-<table width="100%" cellspacing="0" cellpadding="10">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <img src="../figures/haihua-chen.jpg" width="180" height="180"><br>
-      <strong>Haihua Chen</strong><br>
-      <em>Assistant Professor</em><br>
-      <em>University of North Texas</em>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="../figures/SatohK-C.jpg" width="180" height="180"><br>
-      <strong>Ken Satoh</strong><br>
-      <em>Professor</em><br>
-      <em>National Institute of Informatics</em>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="../figures/thanh.jpg" width="180" height="180"><br>
-      <strong>Nguyen Ha Thanh</strong><br>
-      <em>Professor</em><br>
-      <em>National Institute of Informatics</em>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <img src="../figures/joel.jpg" width="180" height="180"><br>
-      <strong>Joel Niklaus</strong><br>
-      <em>Lecturer</em><br>
-      <em>University of Bern</em>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="../figures/Yang Zhang.jpg" width="180" height="180"><br>
-      <strong>Yang Zhang</strong><br>
-      <em>Clinical Assistant Professor</em><br>
-      <em>University of North Texas</em>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="../figures/sabine_wehnert.jpg" width="180" height="180"><br>
-      <strong>Sabine Wehnert</strong><br>
-      <em>Coordinator GEI Usability Lab</em><br>
-      <em>Otto von Guericke University Magdeburg</em>
-    </td>
-  </tr>
-</table>
-
-
+| | |
+|:--|:--|
+| ![Haihua Chen](../figures/haihua-chen.jpg){: width="150px" } <br> **Haihua Chen** <br> *Assistant Professor* <br> *University of North Texas* | ![Ken Satoh](../figures/SatohK-C.jpg){: width="150px" } <br> **Ken Satoh** <br> *Professor* <br> *National Institute of Informatics* |
+| ![Nguyen Ha Thanh](../figures/thanh.jpg){: width="150px" } <br> **Nguyen Ha Thanh** <br> *Professor* <br> *National Institute of Informatics* | ![Joel Niklaus](../figures/joel.jpg){: width="150px" } <br> **Joel Niklaus** <br> *Lecturer* <br> *University of Bern* |
+| ![Yang Zhang](../figures/Yang Zhang.jpg){: width="150px" } <br> **Yang Zhang** <br> *Clinical Assistant Professor* <br> *University of North Texas* | ![Sabine Wehnert](../figures/sabine_wehnert.jpg){: width="150px" } <br> **Sabine Wehnert** <br> *Coordinator GEI Usability Lab* <br> *Otto von Guericke University Magdeburg* |
 
 ## **Website Chair**
-<table width="100%" cellspacing="0" cellpadding="10">
-  <tr>
-    <td width="33%" align="center" valign="left">
-      <img src="../figures/haoxuan.png" width="180" height="180"><br>
-      <strong>Haoxuan Zhang</strong><br>
-      <em>PhD Student</em><br>
-      <em>University of North Texas</em>
-  </tr>
-</table>
+
+![Haoxuan Zhang](../figures/haoxuan.png){: width="150px" }  
+**Haoxuan Zhang**  
+*PhD Student*  
+*University of North Texas*
 
 
 
