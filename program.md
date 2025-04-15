@@ -4,7 +4,7 @@ title: Program
 permalink: /program/
 order: 1
 ---
-### **Kyenote**
+### **Keynote**
 **TBD**
 
 <!-- **PSTDA2023 Special Session is TBD.** -->
