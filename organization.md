@@ -53,7 +53,7 @@ permalink: /organization/
 
 ## **Website Chair**
 
-<div align="left">
+<div align="center">
   <img src="../figures/haoxuan.png" width="150"><br>
   <strong>Haoxuan Zhang</strong><br>
   <em>PhD Student</em><br>
