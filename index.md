@@ -8,7 +8,7 @@ layout: home
 permalink: /
 
 ---
-
+<!-- ![banner image](shenzhen.jpeg) -->
 <div style="position: relative; text-align: center;">
   <img src="figures/dc1.jpg" width="750">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold; text-shadow: 2px 2px 4px #000000; text-align: center;">
