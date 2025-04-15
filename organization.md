@@ -53,13 +53,17 @@ permalink: /organization/
 
 ## **Website Chair**
 
-<div align="center">
-  <img src="../figures/haoxuan.png" width="150"><br>
-  <strong>Haoxuan Zhang</strong><br>
-  <em>PhD Student</em><br>
-  <em>University of North Texas</em>
-</div>
 
+<table style="float: left; width: auto;">
+  <tr>
+    <td align="center">
+      <img src="../figures/haoxuan.png" width="150"><br>
+      <strong>Haoxuan Zhang</strong><br>
+      <em>PhD Student</em><br>
+      <em>University of North Texas</em>
+    </td>
+  </tr>
+</table>
 
 
 
