@@ -6,7 +6,7 @@ permalink: /cfp/
 
 # **Special Session Aims and Scope**
 
-<div style="text-align: justify"> AAA </div> 
+<div style="text-align: justify"> TBD </div> 
 
 <br/>
 
