@@ -54,7 +54,7 @@ permalink: /organization/
 ## **Website Chair**
 <table width="100%" cellspacing="0" cellpadding="10">
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="33%" align="center" valign="left">
       <img src="../figures/haoxuan.png" width="180" height="200"><br>
       <strong>Haoxuan Zhang</strong><br>
       <em>PhD Student</em><br>
