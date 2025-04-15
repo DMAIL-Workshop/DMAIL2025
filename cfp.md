@@ -6,11 +6,10 @@ permalink: /cfp/
 
 # **Special Session Aims and Scope**
 
-<div style="text-align: justify"> The fusion of scalable computing infrastructure, big data, and artificial intelligence has boosted the development and application of data science and advanced data analytics. However, the recently emerging threats on the privacy, security, and trust (PST) of the data and the analytics models have shown a dramatically increasing trend with the wide deployment of data analytics applications. Specifically, the PST attacks on data or models such as model inversion attacks, membership inference attacks, data poisoning attacks, evasion attacks, and model backdoors, have severely made advanced data analytics highly vulnerable, particularly in common scenarios where data are distributed or computation is outsourced like MLaaS (Machine Learning as a Service). On the other hand, defence solutions are proposed as new computing schemes, PST frameworks, algorithms, and methods. For example, differential privacy, federated learning, and machine unlearning are proposed for privacy protection in data analytics, and adversarial machine learning is proposed to achieve robust, secure, and trustworthy data analytics. Given the importance and urgency, this special issue aims to provide a venue for researchers, practitioners and developers from different background areas relevant to PST and data analytics to exchange their latest experience, research ideas, and synergic research and development on fundamental issues and applications about privacy, security, and trust issues in data analytics, as a strong supplement to the main track of data science and advanced analytics. </div> 
+<div style="text-align: justify"> AAA </div> 
 
 <br/>
 
-<div style="text-align: justify"> This special session mainly focuses on the discussions of privacy, security, and trust in data analytics, which generally covers (but not limited to) the topics in privacypreserving technology, privacy attacks, federated learning, machine unlearning, data poisoning attacks, model evasion attacks, adversarial learning, model robustness, secure machine learning integrating cryptographic techniques, blockchain techniques protection PST of data and models, etc.</div>
 
 <br/>
 
@@ -20,27 +19,27 @@ permalink: /cfp/
 
 <br/>
 
-- New privacy, security and trust opportunities and challenges in data analytics
-- Novel theories and modelling for privacy, security, and trust in data analytics
-- Private, secure, and trust deep learning for data analytics
-- Privacy-preserving data mining and machine learning
-- Federated/collaborative learning
-- Machine unlearning
-- Adversarial machine learning for robust data analytics
-- Transfer learning for private, secure, and trust data analytics
-- Data poisoning and model evasion attacks and defences
-- Cryptographic techniques based private, secure, and trust data analytics
-- Privacy, security, and trust management for data analytics
-- Blockchain for privacy, security, and trust in data analytics
-- Real-world applications for private, secure and trust data analytics
-- Privacy, security and privacy issues, trends, and challenges in data analytics
-
+- Large-scale and high-quality datasets for legal DM and Intelligence
+- Predictive modeling of court decisions
+- AI-assisted legal reasoning and judgment prediction
+- Legal document classification and question answering
+- Case law retrieval and citation analysis
+- Argument mining and reasoning in legal discourse
+- Knowledge graph for legal DM
+- Legal text generation and summarization using LLMs
+- Chatbots and virtual legal assistants
+- AI-enhanced legal research tools
+- Applications of DM/AI for legislative and policy analysis
+- Ethical and social implications of in AI for law
+- Addressing bias mitigation and fairness of AI for law
+- Explainability and security in legal AI applications
+- Other related topics
 <br/>
 
 # **Submission Guideline and Reviewing**
 **Submission Instructions:** 
-- Step 1: Login and enter DSAA conference in EasyChair. Website: [https://easychair.org/conferences/?conf=dsaa2023](https://easychair.org/conferences/?conf=dsaa2023)
-- Step 2: Select your role as "author". From the top menu, click the "New Submission" button, and then select "Special Session: Private, Secure, and Trust Data Analytics" to continue.
+- Step 1: Login and enter ICDM conference in EasyChair. Website: [https://easychair.org/conferences/?conf=dsaa2023](https://easychair.org/conferences/?conf=dsaa2023)
+- Step 2: Select your role as "author". From the top menu, click the "New Submission" button, and then select "DMAIL 2025: The First International Workshop on Data Mining and AI for Law" to continue.
 - Step 3: Enter your paper information and then use the "Submit" button at the bottom of the form.
 
 **Paper Length, Formatting, and Reviewing:**
