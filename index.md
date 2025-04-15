@@ -8,10 +8,6 @@ layout: home
 permalink: /
 
 ---
-layout: home
-#layout: page
-#title: DMAIL 2025@IEEE ICDM 2025
-permalink: /
 
 <div style="position: relative; text-align: center;">
   <img src="figures/dc1.jpg" width="750">
