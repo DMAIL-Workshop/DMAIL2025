@@ -7,18 +7,9 @@ layout: home
 #title: DMAIL 2025@IEEE ICDM 2025
 permalink: /
 
----
-<div style="position: relative; text-align: center;">
-  <img src="figures/dc1.jpg" width="750">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold; text-shadow: 2px 2px 4px #000000; text-align: center;">
-    <p>IEEE ICDM 2025<br>
-    25th IEEE International Conference<br>
-    on Data Mining<br><br>
-    November 12-15, 2025<br>
-    Washington DC, USA</p>
-  </div>
-</div>
-
+<p align="center">
+<img src="figures/dc1.jpg" width="750">
+</p>
 
 
 <br/>
