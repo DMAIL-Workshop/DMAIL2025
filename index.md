@@ -26,11 +26,8 @@ Welcome to the DMAIL 2025: The First International Workshop on Data Mining and A
 
 <br/>
 
-<div style="text-align: justify"> The fusion of scalable computing infrastructure, big data, and artificial intelligence has boosted the development and application of data science and advanced data analytics. However, the recently emerging threats on the privacy, security, and trust (PST) of the data and the analytics models have shown a dramatically increasing trend with the wide deployment of data analytics applications. </div> 
 
-<br/>
-
-<div style="text-align: justify"> This special session mainly focuses on the discussions of privacy, security, and trust in data analytics, which generally covers (but not limited to) the topics in privacy-preserving technology, privacy attacks, federated learning, machine unlearning, data poisoning attacks, model evasion attacks, adversarial learning, model robustness, secure machine learning integrating cryptographic techniques, blockchain techniques protection PST of data and models, etc. This special session invites authors to submit original research work that demonstrate and explore current advances in all related areas mentioned above. High-quality accepted papers will be recommended to the associated journal special issues (see more details in <a href="https://pstda2023.github.io/cfp/">Call for Papers)</a>. </div>
+<div style="text-align: justify"> With the rapid advancements in data mining (DM) and artificial intelligence (AI), legal informatics has emerged as a critical interdisciplinary domain where computational methods can significantly enhance legal research, decision-making, and access to justice. The DMAIL 2025 workshop aims to bring together researchers, practitioners, and policymakers to explore cutting-edge developments in AI/data-driven legal analytics, judicial decision modeling, argument mining, and among others. This workshop seeks to address key challenges in applying DM/AI techniques to legal data, including legal text processing (e.g., information extraction, reasoning, retrieval, summarization, prediction), bias detection, ethical AI deployment in law, and others. It will provide a platform for discussions on innovative methodologies, emerging datasets, case studies, and real-world applications that can improve legal reasoning, transparency, and fairness in legal systems worldwide.</a>. </div>
 
 <br/>
 
