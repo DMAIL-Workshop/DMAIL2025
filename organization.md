@@ -4,8 +4,8 @@ title: Organization
 permalink: /organization/
 ---
 
-## **Conference Chairs**
-|<font size=5>**General Chairs**</font> <div style="width:180px"> | <div style="width:180px">  |<div style="width:180px">|
+## **Organizer**
+|<div style="width:180px"> | <div style="width:180px">  |<div style="width:180px">|
 |-------------------|-------------------|--------------|
 |<img align="center" src="../figures/amin.jpg" height="200"/> |<img align="center" src="../figures/sheng.jpg" height="200"/>|<img align="center" src="../figures/guanfeng.jpg" height="200"/>| 
 |**Amin Beheshti** <br>*Professor*<br>*Macquarie University*  |**Victor S. Sheng** <br>*Associate professor*<br>*Texas Tech University* |**Guanfeng Liu** <br>*Senior Lecturer*<br>*Macquarie University* |   
