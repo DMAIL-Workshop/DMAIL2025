@@ -7,7 +7,7 @@ layout: home
 permalink: /
 
 ---
-<div style="max-width: 900px; margin: 40px auto; padding: 20px;">
+
 	
 <div style="position: relative; text-align: center;">
   <img src="figures/dc1.jpg" style="width: 85%; height: auto; max-width: 100vw;">
@@ -31,7 +31,7 @@ Welcome to the DMAIL 2025: The First International Workshop on Data Mining and A
 
 <br/>
 
-</div>
+
 <p align="center">
 	<img src="figures/icdm2025logosmall.png" width="120">
 </p>
