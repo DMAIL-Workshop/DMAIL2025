@@ -5,7 +5,7 @@ permalink: /program/
 order: 1
 ---
 
-<div style="max-width: 900px; margin: 40px auto; padding: 20px;">
+
   
 ### **Keynote**
 **TBD**
@@ -51,4 +51,4 @@ TBD
 - #466 "A Systematical Evaluation for Next Basket Recommender Systems", Shao, Zhufeng; Wang, Shoujin; Zhang, Qian; Lu, Wenpeng; Li, Zhao; Peng, Xueping
 - #482 "Evidence Based Pipeline for Explaining Artificial Intelligence Algorithms with Interactions", Hanif, Ambreen A; Beheshti, Amin; Benatallah, Boualem; Zhang, Xuyun; Wood, Steven -->
 
-</div>
+
