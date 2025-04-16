@@ -24,20 +24,15 @@ footer_right: |
   Haihua.chen@unt.edu (Dr. Haihua Chen)
 
 title: DMAIL@ICDM 2025
-email: dmailworkshop@gmail.com (General inquiry) 
-
-Haihua.chen@unt.edu (Dr. Haihua Chen)
-description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
-
-# The following items are added by Xuyun
+email: dmailworkshop@gmail.com (General inquiry)
+contact_email: Haihua.chen@unt.edu (Dr. Haihua Chen)
+description: >-
+  DMAIL 2025: The First International Workshop on Data Mining and AI for Law @ IEEE ICDM2025
+baseurl: ""
+url: ""
 markdown: GFM
-
-# Build settings
 theme: minima
+
 #plugins:
 #  - jekyll-feed
 
