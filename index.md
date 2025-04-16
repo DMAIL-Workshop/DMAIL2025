@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-#layout: page
-#title: DMAIL 2025@IEEE ICDM 2025
+
 permalink: /
 
 ---
