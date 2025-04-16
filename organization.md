@@ -4,10 +4,10 @@ title: Organization
 permalink: /organization/
 ---
 <div style="max-width: 900px; margin: 40px auto; padding: 20px;">
-## **Organizer**
+
 
 ## **Conference Chairs**
-<table style="width: 100%;">
+<table style="width: 80%;">
   <tr>
     <td align="center" style="width: 50%;">
       <img src="../figures/haihua-chen.jpg" width="150"><br>
