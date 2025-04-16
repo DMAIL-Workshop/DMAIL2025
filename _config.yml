@@ -17,21 +17,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-footer_left: "DMAIL 2025: The First International Workshop on Data Mining and AI for Law @ IEEE ICDM2025"
-footer_right: |
-  Contact Information:
-  dmailworkshop@gmail.com (General inquiry)
-  Haihua.chen@unt.edu (Dr. Haihua Chen)
-
 title: DMAIL@ICDM 2025
-email: dmailworkshop@gmail.com (General inquiry)
-contact_email: Haihua.chen@unt.edu (Dr. Haihua Chen)
+emails:
+  general: dmailworkshop@gmail.com
+  haihua_chen: Haihua.chen@unt.edu
 description: >-
   DMAIL 2025: The First International Workshop on Data Mining and AI for Law @ IEEE ICDM2025
 baseurl: ""
 url: ""
 markdown: GFM
 theme: minima
+
 
 #plugins:
 #  - jekyll-feed
