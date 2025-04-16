@@ -3,7 +3,7 @@ layout: page
 title: Organization 
 permalink: /organization/
 ---
-
+<div style="max-width: 900px; margin: 40px auto; padding: 20px;">
 ## **Organizer**
 
 ## **Conference Chairs**
@@ -79,3 +79,4 @@ permalink: /organization/
 - TBD
 
 
+</div>
