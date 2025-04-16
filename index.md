@@ -33,8 +33,8 @@ Welcome to the DMAIL 2025: The First International Workshop on Data Mining and A
 
 
 <p align="center">
-  <img src="figures/icdm2025logosmall.png" width="120">
-  <img src="figures/dc2.jpg" width="120">
-  <img src="figures/dc3.jpg" width="120">
+  <img src="figures/icdm2025logosmall.png" width="120" height="120">
+  <img src="figures/dc2.jpg" width="120" height="120">
+  <img src="figures/dc3.jpg" width="120" height="120">
 </p>
 
