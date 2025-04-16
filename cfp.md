@@ -3,7 +3,8 @@ layout: page
 title: Call for Papers
 permalink: /cfp/
 ---
-
+<div style="max-width: 900px; margin: 40px auto; padding: 20px;">
+    
 # **Special Session Aims and Scope**
 
 <div style="text-align: justify"> TBD </div> 
@@ -89,4 +90,4 @@ permalink: /cfp/
 </div>
 
 
-
+</div>
