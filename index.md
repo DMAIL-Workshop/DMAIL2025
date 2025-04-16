@@ -5,7 +5,10 @@
 layout: default
 
 permalink: /
-
+<footer>
+  <div>{{ site.footer_left }}</div>
+  <div>{{ site.footer_right }}</div>
+</footer>
 ---
 <!-- ![banner image](shenzhen.jpeg) -->
 <div style="position: relative; text-align: center;">
@@ -33,7 +36,4 @@ Welcome to the DMAIL 2025: The First International Workshop on Data Mining and A
 	<img src="figures/icdm2025logosmall.png" width="120">
 </p>
 
-<footer>
-  <div>{{ site.footer_left }}</div>
-  <div>{{ site.footer_right }}</div>
-</footer>
+
