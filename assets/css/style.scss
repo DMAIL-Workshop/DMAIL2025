@@ -1,13 +1,3 @@
-.site-header-center {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-}
-.site-title {
-  margin-bottom: 0.5em;
-}
-.site-nav {
-  margin-top: 0.5em;
-}
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
