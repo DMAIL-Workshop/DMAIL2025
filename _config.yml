@@ -19,8 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: DMAIL@ICDM 2025
-email: dmailworkshop@gmail.com (General inquiry)
-Haihua.chen@unt.edu (Dr. Haihua Chen)
+email: dmailworkshop@gmail.com (General inquiry) Haihua.chen@unt.edu (Dr. Haihua Chen)
 description: >- # this means to ignore newlines until "baseurl:"
 DMAIL 2025: The First International Workshop on Data Mining and AI for Law @ IEEE ICDM2025
 baseurl: "" # the subpath of your site, e.g. /blog
