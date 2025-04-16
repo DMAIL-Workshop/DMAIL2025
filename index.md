@@ -9,7 +9,7 @@ permalink: /
 ---
 <div style="position: relative; text-align: center;">
   <img src="figures/dc1.jpg" style="width: 100%; height: auto; max-width: 100vw;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold; text-shadow: 2px 2px 4px #000000; text-align: center;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold; text-shadow: 4px 4px 8px #000000; text-align: center;">
     <p>DMAIL 2025<br>
     The First International Workshop on Data Mining and AI for Law<br>
     November 12 2025<br>
