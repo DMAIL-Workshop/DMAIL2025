@@ -3,7 +3,7 @@ layout: page
 title: Organization 
 permalink: /organization/
 ---
-<div style="max-width: 900px; margin: 40px auto; padding: 20px;">
+
 
 
 ## **Conference Chairs**
@@ -79,4 +79,4 @@ permalink: /organization/
 - TBD
 
 
-</div>
+
