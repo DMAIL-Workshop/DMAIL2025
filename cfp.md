@@ -11,7 +11,7 @@ permalink: /cfp/
 
 # **Topics of Interest**
 
-<div style="text-align: justify"> This special session invites authors to submit original manuscripts that demonstrate and explore current advances in all related areas mentioned above. Topics of interest include, but are not limited to: </div>
+<div style="text-align: justify"> DMAIL 2025 workshop invites authors to submit original manuscripts that demonstrate and explore current advances in all related areas mentioned above. Topics of interest include, but are not limited to: </div>
 
 <br/>
 
