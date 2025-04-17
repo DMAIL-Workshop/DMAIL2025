@@ -83,7 +83,8 @@ permalink: /organization/
 
 
 ## **Technical Program Committee**
-- TBD
+- Frank Schilder, Senior Director at Thomson Reuters Labs
+- TBA
 
 
 
