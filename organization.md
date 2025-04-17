@@ -7,7 +7,7 @@ permalink: /organization/
 
 
 ## **Conference Chairs**
-<table style="width: 80%;">
+<table style="width: 100%;">
   <tr>
     <td align="center" style="width: 50%;">
       <img src="../figures/haihua-chen.jpg" width="150"><br>
