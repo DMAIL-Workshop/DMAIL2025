@@ -13,14 +13,14 @@ permalink: /organization/
       <img src="../figures/haihua-chen.jpg" width="150"><br>
       <strong>Haihua Chen</strong><br>
       <em>Assistant Professor</em><br>
-      <em>University of North Texas</em>
+      <em>University of North Texas</em><br>
       <em>USA</em>
     </td>
     <td align="center" style="width: 50%;">
       <img src="../figures/SatohK-C.jpg" width="150"><br>
       <strong>Ken Satoh</strong><br>
       <em>Professor</em><br>
-      <em>National Institute of Informatics</em>
+      <em>National Institute of Informatics</em><br>
       <em>Japan</em>
     </td>
   </tr>
@@ -29,14 +29,14 @@ permalink: /organization/
       <img src="../figures/thanh.jpg" width="150"><br>
       <strong>Nguyen Ha Thanh</strong><br>
       <em>Professor</em><br>
-      <em>National Institute of Informatics</em>
+      <em>National Institute of Informatics</em><br>
       <em>Japan</em>
     </td>
     <td align="center" style="width: 50%;">
       <img src="../figures/joel.jpg" width="150"><br>
       <strong>Joel Niklaus</strong><br>
       <em>Lecturer</em><br>
-      <em>University of Bern</em>
+      <em>University of Bern</em><br>
       <em>Switzerland</em>
     </td>
   </tr>
@@ -45,14 +45,14 @@ permalink: /organization/
       <img src="../figures/Yang Zhang.jpg" width="150"><br>
       <strong>Yang Zhang</strong><br>
       <em>Clinical Assistant Professor</em><br>
-      <em>University of North Texas</em>
+      <em>University of North Texas</em><br>
       <em>USA</em>
     </td>
     <td align="center" style="width: 50%;">
       <img src="../figures/sabine_wehnert.jpg" width="150"><br>
       <strong>Sabine Wehnert</strong><br>
       <em>Coordinator GEI Usability Lab</em><br>
-      <em>Otto von Guericke University Magdeburg</em>
+      <em>Otto von Guericke University Magdeburg</em><br>
       <em>Germany</em>
     </td>
   </tr>
@@ -69,7 +69,8 @@ permalink: /organization/
       <img src="../figures/haoxuan.png" width="150"><br>
       <strong>Haoxuan Zhang</strong><br>
       <em>PhD Student</em><br>
-      <em>University of North Texas</em>
+      <em>University of North Texas</em><br>
+      <em>USA</em>
     </td>
   </tr>
 </table>
