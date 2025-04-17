@@ -14,12 +14,14 @@ permalink: /organization/
       <strong>Haihua Chen</strong><br>
       <em>Assistant Professor</em><br>
       <em>University of North Texas</em>
+      <em>USA</em>
     </td>
     <td align="center" style="width: 50%;">
       <img src="../figures/SatohK-C.jpg" width="150"><br>
       <strong>Ken Satoh</strong><br>
       <em>Professor</em><br>
       <em>National Institute of Informatics</em>
+      <em>Japan</em>
     </td>
   </tr>
   <tr>
@@ -28,12 +30,14 @@ permalink: /organization/
       <strong>Nguyen Ha Thanh</strong><br>
       <em>Professor</em><br>
       <em>National Institute of Informatics</em>
+      <em>Japan</em>
     </td>
     <td align="center" style="width: 50%;">
       <img src="../figures/joel.jpg" width="150"><br>
       <strong>Joel Niklaus</strong><br>
       <em>Lecturer</em><br>
       <em>University of Bern</em>
+      <em>Switzerland</em>
     </td>
   </tr>
   <tr>
@@ -42,12 +46,14 @@ permalink: /organization/
       <strong>Yang Zhang</strong><br>
       <em>Clinical Assistant Professor</em><br>
       <em>University of North Texas</em>
+      <em>USA</em>
     </td>
     <td align="center" style="width: 50%;">
       <img src="../figures/sabine_wehnert.jpg" width="150"><br>
       <strong>Sabine Wehnert</strong><br>
       <em>Coordinator GEI Usability Lab</em><br>
       <em>Otto von Guericke University Magdeburg</em>
+      <em>Germany</em>
     </td>
   </tr>
 </table>
