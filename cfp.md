@@ -5,14 +5,9 @@ permalink: /cfp/
 ---
 
     
-# **Special Session Aims and Scope**
+# **Workshop Aims and Scope**
 
-<div style="text-align: justify"> TBD </div> 
-
-<br/>
-
-
-<br/>
+<div style="text-align: justify"> The DMAIL 2025 workshop aims to bring together researchers, practitioners, and policymakers to explore cutting-edge developments in AI/data-driven legal analytics, judicial decision modeling, argument mining, and among others. This workshop seeks to address key challenges in applying DM/AI techniques to legal data, including legal text processing (e.g., information extraction, reasoning, retrieval, summarization, prediction), bias detection, ethical AI deployment in law, and others. It will provide a platform for discussions on innovative methodologies, emerging datasets, case studies, and real-world applications that can improve legal reasoning, transparency, and fairness in legal systems worldwide. </div> 
 
 # **Topics of Interest**
 
