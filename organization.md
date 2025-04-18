@@ -51,7 +51,7 @@ permalink: /organization/
     <td align="center" style="width: 50%;">
       <img src="../figures/sabine_wehnert.jpg" width="150"><br>
       <strong>Sabine Wehnert</strong><br>
-      <em>Coordinator GEI Usability Lab</em><br>
+      <em>PhD Candidate</em><br>
       <em>Otto von Guericke University Magdeburg</em><br>
       <em>Germany</em>
     </td>
