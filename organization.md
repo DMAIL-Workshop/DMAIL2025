@@ -6,7 +6,7 @@ permalink: /organization/
 
 
 
-## **Conference Chairs**
+## **Workshop Chairs**
 <table style="width: 100%;">
   <tr>
     <td align="center" style="width: 50%;">
