@@ -34,7 +34,7 @@ permalink: /cfp/
 
 # **Submission Guideline and Reviewing**
 **Submission Instructions:** 
-- Step 1: Login and enter ICDM conference in EasyChair. Website: [(TBA)](https://easychair.org/conferences/?conf=dsaa2023)
+- Step 1: Login and enter DMAIL 2025 workshop in EasyChair. Website: [(Submission)](https://easychair.org/conferences?conf=dmail2025)
 - Step 2: Select your role as "author". From the top menu, click the "New Submission" button, and then select "DMAIL 2025: The First International Workshop on Data Mining and AI for Law" to continue.
 - Step 3: Enter your paper information and then use the "Submit" button at the bottom of the form.
 
@@ -42,26 +42,24 @@ permalink: /cfp/
 - <div style="text-align: justify"> The length of each paper submitted should be no more than 10 pages, and formatted following the standard 2-column U.S. letter style of IEEE Conference template. See the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE Proceedings Author Guidelines</a> for further information and instructions.</div>
 - <div style="text-align: justify"> All submissions will be double-blind reviewed by the Program Committee on the basis of technical quality, relevance to the scope of the special session, originality, significance, and clarity. The names and affiliations of authors must not appear in the submissions, and bibliographic references must be adjusted to preserve author anonymity. Submissions failing to comply with paper formatting and authors anonymity will be rejected without reviews.</div>
 - <div style="text-align: justify"> Authors are also encouraged to submit supplementary materials, i.e., providing the source code and data through a GitHub-like public repository to support the reproducibility of their research results.</div>
-<!-- **Submission portal:** [https://cmt3.research.microsoft.com/DSAA2022](https://cmt3.research.microsoft.com/DSAA2022) -->
-
-<!-- <div style="text-align: justify"> Special session papers strictly follow the same specifications, requirements, and policies as the main conference submissions in terms of paper formatting and length and important policies. Reviewing the submissions in each special session is coordinated by the special session organizers and is fully aligned to the main conference evaluation process. See [DSAA203 Important Policies](https://conferences.sigappfr.org/dsaa2023/cfp-for-special-sessions-track/) for more details. In particular: </div>
+<!-- **Submission portal:** [https://easychair.org/conferences?conf=dmail2025](https://easychair.org/conferences?conf=dmail2025) -->
 
 <br/> -->
-**Proceedings, Indexing, and Special Issues:**
-- <div style="text-align: justify"> All submissions will be triple-blind reviewed by the Program Committee based on technical quality, relevance to the scope of the workshop, originality, significance, and clarity. Manuscripts must be submitted electronically through the EasyChair (TBA).</div>
+**Proceedings:**
+- <div style="text-align: justify"> All submissions will be triple-blind reviewed by the Program Committee based on technical quality, relevance to the scope of the workshop, originality, significance, and clarity. Manuscripts must be submitted electronically through the ([EasyChair](https://easychair.org/conferences?conf=dmail2025)).</div>
 
 <!-- 
 - Submissions must be original work and should not be under submission to other venues at the time of review.
 
-- The length of each paper submitted to the special session should be no more than 10 pages, and the papers should be formatted following the standard 2-column U.S. letter style of IEEE Conference template. See the IEEE Proceedings Author Guidelines: [http://www.ieee.org/conferences_events/conferences/publishing/templates.html](http://www.ieee.org/conferences_events/conferences/publishing/templates.html), for further information and instructions.
+- The length of each paper submitted to the workshop should be no more than 10 pages, and the papers should be formatted following the standard 2-column U.S. letter style of IEEE Conference template. See the IEEE Proceedings Author Guidelines: [http://www.ieee.org/conferences_events/conferences/publishing/templates.html](http://www.ieee.org/conferences_events/conferences/publishing/templates.html), for further information and instructions.
 
 - Authors are also encouraged to submit supplementary materials, i.e., providing the source code and data through a GitHub-like public repository to support the reproducibility of their research results.
     
-- Papers will then be assigned to appropriate PCMs by the Special Session organizers for review.
+- Papers will then be assigned to appropriate PCMs by the workshop organizers for review.
     
-- Special Session organizers will make recommendations of acceptance/rejection for papers in their sessions, which must be validated by General chairs, Research, and Application track chairs.
+- Workshop organizers will make recommendations of acceptance/rejection for papers in their sessions, which must be validated by General chairs, Research, and Application track chairs.
 
-- To guarantee uniform quality control for all special sessions and to be consistent with the main conference, the final decisions of special session paper acceptance/rejection are made by the DSAA Program Chairs. -->
+- To guarantee uniform quality control for this workshop, the final decisions of workshop paper acceptance/rejection are made by the DMAIL Program Chairs. -->
 
 <br/>
 
