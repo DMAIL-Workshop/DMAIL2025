@@ -46,7 +46,7 @@ permalink: /cfp/
 
 <br/> -->
 **Proceedings:**
-- <div style="text-align: justify"> All submissions will be triple-blind reviewed by the Program Committee based on technical quality, relevance to the scope of the workshop, originality, significance, and clarity. Manuscripts must be submitted electronically through EasyChair: [https://easychair.org/conferences?conf=dmail2025](https://easychair.org/conferences?conf=dmail2025).</div>
+- <div style="text-align: justify"> All submissions will be triple-blind reviewed by the Program Committee based on technical quality, relevance to the scope of the workshop, originality, significance, and clarity. Manuscripts must be submitted electronically through EasyChair: <a href="https://easychair.org/conferences?conf=dmail2025">https://easychair.org/conferences?conf=dmail2025</a>.</div>
 
 <!-- 
 - Submissions must be original work and should not be under submission to other venues at the time of review.
