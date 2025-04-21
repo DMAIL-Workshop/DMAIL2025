@@ -28,7 +28,7 @@ permalink: /organization/
     <td align="center" style="width: 50%;">
       <img src="../figures/thanh.jpg" width="150"><br>
       <strong>Nguyen Ha Thanh</strong><br>
-      <em>Professor</em><br>
+      <em>Researcher</em><br>
       <em>National Institute of Informatics</em><br>
       <em>Japan</em>
     </td>
