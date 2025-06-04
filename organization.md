@@ -92,6 +92,10 @@ permalink: /organization/
 - Pedro Miguel Freitas, Universidade Católica Portuguesa, Portugal
 - Sarah Ryan, University of North Texas, USA
 - Yuki Todo, Kanazawa University, Japan
+- Jiangping Chen, University of Illinois Urbana-Champaign, USA
+- Karolina Naranjo-Velasco, University of Virginia, USA
+- Manuel Fiorelli, Università degli Studi di Roma Tor Vergata, Italy
+- Ilaria Angela Amantea, University of Turin, Italy
 - TBA
 
 
