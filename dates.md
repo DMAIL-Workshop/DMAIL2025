@@ -4,7 +4,7 @@ title: Dates
 permalink: /dates/
 ---
 
-# - **Workshop papers submission:**	Aug 29, 2025
+# - **Workshop papers submission:**	Sep 01, 2025
 # - **Notification of workshop papers acceptance to authors:**	Sep 15, 2025
 # - **Camera-ready deadline and copyright form:**	Sep 25, 2025
 # - **Workshop date:**	Tentatively on Nov 12, 2025
