@@ -83,12 +83,15 @@ permalink: /organization/
 
 
 ## **Technical Program Committee**
-- Frank Schilder, Senior Director at Thomson Reuters Labs
+- Frank Schilder, Thomson Reuters Labs, USA
 - May Myo Zin, Center for Juris-Informatics, ROIS-DS, Tokyo, Japan
 - Minh-Phuong Nguyen, Japan Advanced Institute of Science and Technology, Ishikawa, Japan
 - Thi-Hai-Yen Vuong, VNU University of Engineering and Technology, Vietnam National University, Hanoi, Vietnam
 - Vu Tran, Japan Advanced Institute of Science and Technology, Ishikawa, Japan
 - Wachara Funwacharakorn, Center for Juris-Informatics, ROIS-DS, Tokyo, Japan
+- Pedro Miguel Freitas, Universidade Católica Portuguesa, Portugal
+- Sarah Ryan, University of North Texas, USA
+- Yuki Todo, Kanazawa University, Japan
 - TBA
 
 
