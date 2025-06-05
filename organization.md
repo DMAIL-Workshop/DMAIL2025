@@ -96,6 +96,10 @@ permalink: /organization/
 - Karolina Naranjo-Velasco, University of Virginia, USA
 - Manuel Fiorelli, Università degli Studi di Roma Tor Vergata, Italy
 - Ilaria Angela Amantea, University of Turin, Italy
+- Reshma Sheik, National Institute of Technology, India
+- Ankita Gupta, University of Massachusetts Amherst, USA
+- Yoshinobu Kano, Shizuoka University, Japan
+- Masaharu Yoshioka, Hokkaido University, Japan
 - TBA
 
 
