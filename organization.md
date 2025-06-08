@@ -100,7 +100,12 @@ permalink: /organization/
 - Ankita Gupta, University of Massachusetts Amherst, USA
 - Yoshinobu Kano, Shizuoka University, Japan
 - Masaharu Yoshioka, Hokkaido University, Japan
+- Marco Siino, University of Catania, Italy
+- Jaromir Savelka, Carnegie Mellon University, USA
+- Kripabandhu Ghosh, Indian Institute of Science Education and Research, India
+- Xuran Wang, University of Pennsylvania, USA
+- David Lillis, University College Dublin, Ireland
+- Tomasz Zurek, University of Amsterdam, Netherlands
 - TBA
-
 
 
