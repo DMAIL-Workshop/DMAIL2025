@@ -106,6 +106,8 @@ permalink: /organization/
 - Xuran Wang, University of Pennsylvania, USA
 - David Lillis, University College Dublin, Ireland
 - Tomasz Zurek, University of Amsterdam, Netherlands
+- Huihui Xu, University of Pittssburgh, USA
+- Prakash Poudyal, Kathmandu University, Nepal
+- Mi-Young Kim, University of Alberta, Canada
 - TBA
-
 
