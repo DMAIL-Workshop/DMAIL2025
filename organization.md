@@ -109,5 +109,7 @@ permalink: /organization/
 - Huihui Xu, University of Pittssburgh, USA
 - Prakash Poudyal, Kathmandu University, Nepal
 - Mi-Young Kim, University of Alberta, Canada
+- Zhuoren Jiang, Zhejiang University, China
+- Manuel Fiorelli, University of Rome Tor Vergata, Italy
 - TBA
 
