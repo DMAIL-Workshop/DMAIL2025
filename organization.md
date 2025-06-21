@@ -113,5 +113,6 @@ permalink: /organization/
 - Manuel Fiorelli, University of Rome Tor Vergata, Italy
 - Emilio Sulis, University of Torino, Italy
 - Abe Bohan Hou, Johns Hopkins University, USA
+- Andrea Tagarelli, University of Calabria, Italy
 - TBA
 
