@@ -114,5 +114,6 @@ permalink: /organization/
 - Emilio Sulis, University of Torino, Italy
 - Abe Bohan Hou, Johns Hopkins University, USA
 - Andrea Tagarelli, University of Calabria, Italy
+- Colin Doyle, Loyola Law School, Los Angeles, USA
 - TBA
 
