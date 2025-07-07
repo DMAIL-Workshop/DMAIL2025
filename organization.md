@@ -115,5 +115,6 @@ permalink: /organization/
 - Abe Bohan Hou, Johns Hopkins University, USA
 - Andrea Tagarelli, University of Calabria, Italy
 - Colin Doyle, Loyola Law School, Los Angeles, USA
-- TBA
-
+- Ruta Liepina, University of Bologna, Italy
+- Aamir Abdullah, University of Hawai'i at Manoa, USA
+- Yue Zhang, University of Texas at Dallas, USA
