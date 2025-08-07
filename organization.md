@@ -68,7 +68,7 @@ permalink: /organization/
     <td align="center">
       <img src="../figures/haoxuan.png" width="150"><br>
       <strong>Haoxuan Zhang</strong><br>
-      <em>PhD Student</em><br>
+      <em>Ph.D. Student</em><br>
       <em>University of North Texas</em><br>
       <em>USA</em>
     </td>
