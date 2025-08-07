@@ -11,7 +11,7 @@ order: 1
 <table style="width: auto;">
   <tr>
     <td align="center">
-      <img src="../figures/Dominik.png" width="150"><br>
+      <img src="../figures/picture_dominsta.jpg" width="150"><br>
       <strong>Dominik Stammbach</strong><br>
       <em>Postdoctoral Research Associate</em><br>
       <em>CITP, Princeton University</em><br>
