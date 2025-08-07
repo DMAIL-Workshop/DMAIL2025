@@ -8,7 +8,17 @@ order: 1
 
   
 ### **Keynote**
-**TBD**
+<table style="width: auto;">
+  <tr>
+    <td align="center">
+      <img src="../figures/Dominik.png" width="150"><br>
+      <strong>Dominik Stammbach</strong><br>
+      <em>Postdoctoral Research Associate</em><br>
+      <em>CITP, Princeton University</em><br>
+      <em>USA</em>
+    </td>
+  </tr>
+</table>
 
 <!-- **PSTDA2023 Special Session is TBD.** -->
 
