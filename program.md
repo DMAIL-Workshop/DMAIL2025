@@ -20,6 +20,9 @@ order: 1
   </tr>
 </table>
 
+**Bio:**
+Dr. Dominik Stammbach is a postdoctoral research associate at the Center for Information Technology Policy (CITP) and the Polaris Lab at Princeton University. Prior to that, he obtained his PhD. in Spring 2024 at ETH Zurich. His current research centers on legal NLP and AI to support public defenders and improve access to justice. In collaboration with a public defender’s office, he has developed an AI tool to provide computational assistance and to make their work more effective. In parallel, his team is conducting interviews with public defenders across the US to understand their perspectives on AI, with the goal of identifying opportunities and challenges around AI and its implications on the day-to-day work of public defenders, and especially what would be good use cases to develop AI tools for. His research has been published on top conferences such as ACL, EMNLP, and others. 
+
 <!-- **PSTDA2023 Special Session is TBD.** -->
 
 **Pay careful  attention to the time zone difference!**
