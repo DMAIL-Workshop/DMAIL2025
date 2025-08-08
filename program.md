@@ -12,7 +12,7 @@ order: 1
   <tr>
     <td align="center">
       <img src="../figures/picture_dominsta.jpg" width="150"><br>
-      <strong>Dominik Stammbach</strong><br>
+      <strong>[Dominik Stammbach](https://dominik-stammbach.github.io)</strong><br>
       <em>Postdoctoral Research Associate</em><br>
       <em>CITP, Princeton University</em><br>
       <em>USA</em>
