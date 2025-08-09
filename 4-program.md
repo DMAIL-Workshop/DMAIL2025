@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Program
-permalink: /program/
+permalink: /4-program/
 order: 1
 ---
 
