@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Dates
-permalink: /2-dates/
+permalink: /dates/
+order: 3
 ---
 
 # - **Workshop papers submission:**	Sep 01, 2025
