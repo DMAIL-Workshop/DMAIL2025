@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Legal Bias Flagging Challenge @ DMAIL 2025
+title: Legal Bias Flagging Challenge
 permalink: /lbc/
 ---
 
