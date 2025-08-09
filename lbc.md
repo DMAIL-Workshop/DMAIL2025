@@ -10,11 +10,11 @@ The Legal Bias Flagging Challenge is a new feature of DMAIL 2025, designed to ad
 
 <div style="text-align: justify">Participants will develop models that automatically detect and explain potential bias in passages from legal case texts. Each task instance will include: </div> 
 
-<br/>
-- a highlighted passage potentially containing bias, 
-- the full case text for broader contextual understanding, 
-- and a language column. 
-<br/>
+
+-   a highlighted passage potentially containing bias, 
+-   the full case text for broader contextual understanding, 
+-   and a language column. 
+
 
 The model must output a **binary decision (Y/N)** indicating whether the passage contains bias, along with an automatically generated explanation justifying the prediction. This dual-output task emphasizes both performance and interpretability.
 
@@ -32,19 +32,17 @@ All submissions will be evaluated against a hidden ground truth curated by the D
 
 Winners will be announced in two categories:
 
+-   The **Overall Winner**, awarded to the top-performing model on the challenge dataset.
+-   The **Low-Resource Setting Winner**, awarded to the best-performing system operating under constrained computing resources.
 
-<br/>
-- The **Overall Winner**, awarded to the top-performing model on the challenge dataset.
-- The **Low-Resource Setting Winner**, awarded to the best-performing system operating under constrained computing resources.
-<br/>
 
 
 To qualify for the low-resource category, participants must use publicly available pre-trained models (e.g., from HuggingFace or Ollama), and meet at least one of the following criteria: 
 
-<br/>
-- the model must contain no more than 100 million parameters, or 
-- it must run using no more than 16 GB of VRAM. 
-<br/>
+
+-   the model must contain no more than 100 million parameters, or 
+-   it must run using no more than 16 GB of VRAM. 
+
 
 Submissions in this category must also include a short description of the experimental setup, including model architecture and size, hardware and VRAM usage, the used prompt(s) and overall methodology.
 
@@ -62,10 +60,10 @@ To participate in the Legal Bias Flagging Challenge, each team must complete a f
 
 Participation requires:
 
-<br/>
-- Signing a license agreement, which outlines the permitted use of the challenge data ([DMAIL_Challenge_Memorandum_Form_2025.pdf](https://drive.google.com/file/d/1m4Hc3J2UtDPrXGHK77lYa6fNcgxv4WMd/view?usp=sharing))
-- Submitting a registration form, which must list all team members involved in the project ([DMAIL_Challenge_Registration_Form_2025.pdf](https://drive.google.com/file/d/1Bj8MpZonMrulfumhNJ7413xOkxvj_WxE/view?usp=sharing))
-<br/>
+
+-   Signing a license agreement, which outlines the permitted use of the challenge data ([DMAIL_Challenge_Memorandum_Form_2025.pdf](https://drive.google.com/file/d/1m4Hc3J2UtDPrXGHK77lYa6fNcgxv4WMd/view?usp=sharing))
+-   Submitting a registration form, which must list all team members involved in the project ([DMAIL_Challenge_Registration_Form_2025.pdf](https://drive.google.com/file/d/1Bj8MpZonMrulfumhNJ7413xOkxvj_WxE/view?usp=sharing))
+
 
 Only teams that have completed the registration form and signed the license agreement will be granted access to the dataset and permitted to submit challenge results.
 
