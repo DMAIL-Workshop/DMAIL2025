@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call for Papers
-permalink: /0cfp/
+permalink: /0-cfp/
 ---
 
     
