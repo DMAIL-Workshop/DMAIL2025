@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Organization 
-permalink: /3-organization/
+permalink: /organization/
+order: 4
 ---
 
 
