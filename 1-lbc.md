@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Legal Bias Flagging Challenge
-permalink: /lbc/
+permalink: /1-lbc/
 ---
 
 The Legal Bias Flagging Challenge is a new feature of DMAIL 2025, designed to advance the field of responsible and explainable AI in law. This competition invites participants to tackle the important task of flagging bias in legal texts, an issue that lies at the heart of fairness and accountability in automated legal systems.
