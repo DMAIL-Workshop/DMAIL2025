@@ -1,4 +1,4 @@
-<img width="301" height="15" alt="image" src="https://github.com/user-attachments/assets/b895e4ae-27dd-44d1-b02e-2dec5694cda1" />---
+---
 layout: page
 title: Organization 
 permalink: /organization/
