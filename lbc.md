@@ -22,6 +22,7 @@ The model must output a **binary decision (Y/N)** indicating whether the passage
 For this challenge, **bias** is defined as follows (based on an excerpt from this dictionary https://dictionary.law.com/Default.aspx?selected=61):
 *the predisposition of a judge, arbitrator, prospective juror, or anyone making a judicial decision, against or in favor of one of the parties or a class of persons. This can be shown by remarks, decisions contrary to fact, reason or law, or other unfair conduct.* 
 
+The bias flagging task does not imply a judgment about the fairness of the entire legal proceeding. The annotations are based solely on the provided text snippets, which are only partial representations of the full judicial documents. The flag indicates that expert annotators identified potentially biased language in the snippet, without making any claims about the overall fairness of the judicial proceeding.
 
 # **Dataset and Setup**
 
@@ -68,6 +69,10 @@ Participation requires:
 
 Only teams that have completed the registration form and signed the license agreement will be granted access to the dataset and permitted to submit challenge results.
 
+To register, please contact:
+sabine[dot]wehnert[at]ovgu[dot]de
+
+*For submission of challenge results, please use the general inquiry email listed at the bottom of this page.*
 
 # **Submission Instructions**
 
@@ -86,7 +91,7 @@ Each participant must submit two plain text (.txt) files:
     -   A concise summary of the overall methodology
 
 
-All files must be submitted via email by the deadline.
+All files must be submitted via [email](mailto:dmailworkshop@gmail.com) by the deadline.
 
 
 # **Important Dates**
