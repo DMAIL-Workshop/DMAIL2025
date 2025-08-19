@@ -35,7 +35,7 @@ order: 1
 
 # **Submission Guideline and Reviewing**
 **Submission Instructions:** 
-- Step 1: Login and enter DMAIL 2025 workshop in Cyberchair. Website: https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S16
+- Step 1: Login and enter DMAIL 2025 workshop in Cyberchair. Website: [https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S16](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S16)
 - Step 2: Select your role as "author". From the top menu, click the "New Submission" button, and then select "DMAIL 2025: The First International Workshop on Data Mining and AI for Law" to continue.
 - Step 3: Enter your paper information and then use the "Submit" button at the bottom of the form.
 
@@ -43,11 +43,10 @@ order: 1
 - <div style="text-align: justify"> The length of each paper submitted should be no more than 10 pages, and formatted following the standard 2-column U.S. letter style of IEEE Conference template. See the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE Proceedings Author Guidelines</a> for further information and instructions.</div>
 - <div style="text-align: justify"> All submissions will be double-blind reviewed by the Program Committee on the basis of technical quality, relevance to the scope of the special session, originality, significance, and clarity. The names and affiliations of authors must not appear in the submissions, and bibliographic references must be adjusted to preserve author anonymity. Submissions failing to comply with paper formatting and authors anonymity will be rejected without reviews.</div>
 - <div style="text-align: justify"> Authors are also encouraged to submit supplementary materials, i.e., providing the source code and data through a GitHub-like public repository to support the reproducibility of their research results.</div>
-<!-- **Submission portal:** [https://easychair.org/conferences?conf=dmail2025](https://easychair.org/conferences?conf=dmail2025) -->
 
 <br/> -->
 **Proceedings:**
-- <div style="text-align: justify"> All submissions will be triple-blind reviewed by the Program Committee based on technical quality, relevance to the scope of the workshop, originality, significance, and clarity. Manuscripts must be submitted electronically through Cyberchair: https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S16
+- <div style="text-align: justify"> All submissions will be triple-blind reviewed by the Program Committee based on technical quality, relevance to the scope of the workshop, originality, significance, and clarity. Manuscripts must be submitted electronically through Cyberchair: [https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S16](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S16)
 
 <!-- 
 - Submissions must be original work and should not be under submission to other venues at the time of review.
