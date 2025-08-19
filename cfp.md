@@ -35,7 +35,7 @@ order: 1
 
 # **Submission Guideline and Reviewing**
 **Submission Instructions:** 
-- Step 1: Login and enter DMAIL 2025 workshop in Cyberchair. Website: <a https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S16 </a>
+- Step 1: Login and enter DMAIL 2025 workshop in Cyberchair. Website: https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S16
 - Step 2: Select your role as "author". From the top menu, click the "New Submission" button, and then select "DMAIL 2025: The First International Workshop on Data Mining and AI for Law" to continue.
 - Step 3: Enter your paper information and then use the "Submit" button at the bottom of the form.
 
