@@ -94,14 +94,29 @@ Each participant must submit two plain text (.txt) files:
 All files must be submitted via [email](mailto:dmailworkshop@gmail.com) by the deadline.
 
 
+# **Legal Bias Challenge Paper Submission Guideline and Reviewing**
+**Submission Instructions:** 
+- Step 1: Login and enter DMAIL 2025 workshop in Cyberchair. Website: [https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S16](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S16)
+- Step 2: Select your role as "author". From the top menu, click the "New Submission" button, and then select "DMAIL 2025: The First International Workshop on Data Mining and AI for Law" to continue.
+- Step 3: Enter your paper information and then use the "Submit" button at the bottom of the form.
+
+**Paper Length, Formatting, and Reviewing:**
+- <div style="text-align: justify"> The length of each paper submitted should be no more than 4 pages, and formatted following the standard 2-column U.S. letter style of IEEE Conference template. See the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE Proceedings Author Guidelines</a> for further information and instructions.</div>
+- <div style="text-align: justify"> All legal bias challenge papers will be reviewed by the Organizing Committee on the basis of technical quality, originality, significance, and clarity. </div>
+- <div style="text-align: justify"> Authors are also encouraged to submit supplementary materials, i.e., providing the source code and data through a GitHub-like public repository to support the reproducibility of their research results.</div>
+
+
 # **Important Dates**
 
 -   Challenge Registration Opens: August 10, 2025
 -   Dataset Release: August 12, 2025
 -   Submission Deadline: August 30, 2025
--   Results Announcement: September 1, 2025
--   Challenge Paper Submission Deadline: September 5, 2025
--   Notification to Authors: September 18, 2025
+-   ~~Results Announcement: September 1, 2025~~
+-   Extended Results Announcement: September 5, 2025
+-   ~~Challenge Paper Submission Deadline: September 5, 2025~~
+-   Extended Challenge Paper Submission Deadline: September 10, 2025
+-   ~~Notification to Authors: September 18, 2025~~
+-   Notification to Authors: September 19, 2025
 -   Camera-Ready Deadline: September 25, 2025
 -   Workshop Date: November 12, 2025
 
