@@ -51,17 +51,9 @@ TBD
 
 ### **Accepted Papers**
 
-TBD
-<!-- We have received 22 submissions across the world this year and 8 papers have been accepted for oral presentation with the acceptance rate around 36%.
-
-- #151 "Federated Deep Recommendation System Based on Multi-View Feature Embedding", Wang, Xinna; Meng, Shunmei; Chen, Yanran; Li, Qianmu; Yuan, Rui; Liu, Qiyan
-- #183 "Range-free and Level-based Localization with Malicious Node Identification in Underwater Sensor Networks", Guo, Ying; Ping, Ji; Xu, Jingxiang; Liu, Peng
-- #358 "Generating privacy preserving synthetic medical data", Faisal, Fahim; Leung, Carson K.; Mohammed, Noman; Wang, Yang
-- #366 "A novel real-time trajectory compression method for privacy protection", Tao, Jiachun; Chen, Liang; Fang, Junhua
-
-- #369 "Fuzzy-Based Operational Resilience Modelling", Ur-Rehman, Attiq; Kamruzzaman, Joarder; Gondal, Iqbal; Jolfaei, Alireza
-- #385 "Domain Knowledge Enhanced Text Mining for Identifying Mental Disorder Patterns", Shahabikargar, Maryam; Beheshti, Amin; Khatami, Amin; Nguyen, Ricky; Zhang, Xuyun; Alinejad-Rokny, Hamid
-- #466 "A Systematical Evaluation for Next Basket Recommender Systems", Shao, Zhufeng; Wang, Shoujin; Zhang, Qian; Lu, Wenpeng; Li, Zhao; Peng, Xueping
-- #482 "Evidence Based Pipeline for Explaining Artificial Intelligence Algorithms with Interactions", Hanif, Ambreen A; Beheshti, Amin; Benatallah, Boualem; Zhang, Xuyun; Wood, Steven -->
-
-
+- Jieh-Sheng Lee, "PatentGRPO: Group Relative Policy Optimization for Patent Text Generation"
+- Steve Huntsman, "Automatic coherence-driven inference on arguments"
+- Benjamin Tice and J. Christine Park, "Project Kothar : Topic Modeling Copyright Infringement Cases"
+- Sarah Ryan and Lingzi Hong, "The Challenges of Data Mining and A.I. for State Laws and Legislative Research: Recommendations for the Development of Legislative A.I."
+- Moriya Dechtiar, Daniel Martin Katz, Mari Sundaresan, Sylvain Jaume, and Hongming Wang, "GRAPH-GRPO-LEX: Legal Contracts Graph Modeling via Reinforcement Learning with Group Relative Policy Optimization"
+- M. Mikail Demir and M. Abdullah Canbaz, "Legal Argument Mining the TCA’s Technology Undertaking Exception with Turkish BERT"
