@@ -118,6 +118,6 @@ All files must be submitted via [email](mailto:dmailworkshop@gmail.com) by the d
 -   ~~Notification to Authors: September 18, 2025~~
 -   Notification to Authors: September 19, 2025
 -   Camera-Ready Deadline: September 25, 2025
--   Workshop Date: November 12, 2025
+-   Workshop Date: November 14, 2025
 
 
