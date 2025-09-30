@@ -27,7 +27,7 @@ Dr. Dominik Stammbach is a postdoctoral research associate at the Center for Inf
 
 **Pay careful  attention to the time zone difference!**
 
-### **Special Session Schedule**
+### **Session Schedule**
 TBD
 <!-- **Date: Saturday 15 October 2022 (UTC+11, AEDT, Australia)** -->
 
