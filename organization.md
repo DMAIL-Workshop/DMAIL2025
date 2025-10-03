@@ -66,7 +66,7 @@ order: 4
   <tr>
     <td align="center">
       <img src="../figures/Jiangping-Chen.jpg" width="150"><br>
-      <strong>Haoxuan Zhang</strong><br>
+      <strong>Jiangping Chen</strong><br>
       <em>Professor</em><br>
       <em>University of Illinois Urbana-Champaign</em><br>
       <em>USA</em>
