@@ -28,13 +28,13 @@ Dr. Dominik Stammbach is a postdoctoral research associate at the Center for Inf
 **Pay careful  attention to the time zone difference!**
 
 ### **Session Schedule**
-**Date: Friday 14 November 2025 (Eastern Standard Time (EST), USA and Canada)** -->
+**Date: Friday 14 November 2025 (Eastern Standard Time (EST), USA and Canada)** 
 
 | <div style="width:150px"> Time Slot </div>    | <div style="width:180px">  Activity </div>   |  Speaker   |Moderator   |
 |-------------------|--------------------|--------------| --------------|
 | 1:30pm ~ 1:40pm |       Opening      |              |              |
-| 1:40pm ~ 2:30pm |   [Keynote Speech](https://dominik-stammbach.github.io) | Dr. Dominik Stammbach |Dr. Jiangping Chen |
-| 2:30pm ~ 5:00pm |      Paper Session     |              |Dr. Jiangping Chen |
+| 1:40pm ~ 2:30pm |   [Keynote Speech](https://dominik-stammbach.github.io) | Dr. Dominik Stammbach |Prof. Jiangping Chen |
+| 2:30pm ~ 5:00pm |      Paper Session     |              |Prof. Jiangping Chen |
 |                   |  PatentGRPO: Group Relative Policy Optimization for Patent Text Generation (30 minutes)  | Jieh-Sheng Lee |              | 
 |                   |  Automatic coherence-driven inference on arguments (30 mintues) | Steve Huntsman |              | 
 |                   |  The Challenges of Data Mining and A.I. for State Laws and Legislative Research: Recommendations for the Development of Legislative A.I. (30 minutes) | Sarah Ryan and Lingzi Hong |              | 
