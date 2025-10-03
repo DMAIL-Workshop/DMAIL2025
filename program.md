@@ -53,7 +53,6 @@ TBD
 
 - Jieh-Sheng Lee, "PatentGRPO: Group Relative Policy Optimization for Patent Text Generation"
 - Steve Huntsman, "Automatic coherence-driven inference on arguments"
-- Benjamin Tice and J. Christine Park, "Project Kothar : Topic Modeling Copyright Infringement Cases"
 - Sarah Ryan and Lingzi Hong, "The Challenges of Data Mining and A.I. for State Laws and Legislative Research: Recommendations for the Development of Legislative A.I."
 - Moriya Dechtiar, Daniel Martin Katz, Mari Sundaresan, Sylvain Jaume, and Hongming Wang, "GRAPH-GRPO-LEX: Legal Contracts Graph Modeling via Reinforcement Learning with Group Relative Policy Optimization"
 - M. Mikail Demir and M. Abdullah Canbaz, "Legal Argument Mining the TCA’s Technology Undertaking Exception with Turkish BERT"
