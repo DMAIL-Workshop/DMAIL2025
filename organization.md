@@ -60,6 +60,19 @@ order: 4
 </table>
 
 
+## **Local Chair**
+
+<table style="width: auto;">
+  <tr>
+    <td align="center">
+      <img src="../figures/Jiangping-Chen.jpg" width="150"><br>
+      <strong>Haoxuan Zhang</strong><br>
+      <em>Professor</em><br>
+      <em>University of Illinois Urbana-Champaign</em><br>
+      <em>USA</em>
+    </td>
+  </tr>
+</table>
 
 
 ## **Website Chair**
