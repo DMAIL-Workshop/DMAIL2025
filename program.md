@@ -28,24 +28,19 @@ Dr. Dominik Stammbach is a postdoctoral research associate at the Center for Inf
 **Pay careful  attention to the time zone difference!**
 
 ### **Session Schedule**
-TBD
-<!-- **Date: Saturday 15 October 2022 (UTC+11, AEDT, Australia)** -->
+**Date: Friday 14 November 2025 (Eastern Standard Time (EST), USA and Canada)** -->
 
-<!-- | <div style="width:150px"> Time Slot </div>    | <div style="width:180px">  Activity </div>   |  Speaker   |
-|-------------------|--------------------|--------------| -->
-<!-- | 05:00pm ~ 05:05pm |       Opening      |              |
-| 05:05pm ~ 06:00pm |   [Keynote Speech](https://xuyun-zhang.github.io/pstda2022/invited-speaker/) | Prof. Tianqing Zhu |
-| 06:00pm ~  07:00pm |      Session I     |              |
-|                   |  Paper#151 (15 minutes)  | Xinna Wang, et al. |
-|                   |   Paper#183 (15 mintues) | Ying Guo, et al. |
-|                   |   Paper#358 (15 minutes) | Carson K. Leung, et al. |
-|                   |   Paper#366 (15 minutes) | Jiachun Tao, et al. |
-| 07:00pm ~  08:00pm |     Session II     |              |
-|                   |   Paper#369 (15 minutes) | Attiq Ur-Rehman, et al. |
-|                   |   Paper#385 (15 minutes)  | Maryam Shahabikargar, et al. |
-|                   |   Paper#466 (15 mintues) | Wenpeng Lu |
-|                   |   Paper#482 (15 mintues)  | Ambreen A. Hanif, et al. |
-|  08:00pm ~  08:05pm |       Closing      |              | -->
+| <div style="width:150px"> Time Slot </div>    | <div style="width:180px">  Activity </div>   |  Speaker   |Moderator   |
+|-------------------|--------------------|--------------| --------------|
+| 1:30pm ~ 1:40pm |       Opening      |              |              |
+| 1:40pm ~ 2:30pm |   [Keynote Speech](https://dominik-stammbach.github.io) | Dr. Dominik Stammbach |Dr. Jiangping Chen |
+| 2:30pm ~ 5:00pm |      Paper Session     |              |Dr. Jiangping Chen |
+|                   |  PatentGRPO: Group Relative Policy Optimization for Patent Text Generation (30 minutes)  | Jieh-Sheng Lee |              | 
+|                   |  Automatic coherence-driven inference on arguments (30 mintues) | Steve Huntsman |              | 
+|                   |  The Challenges of Data Mining and A.I. for State Laws and Legislative Research: Recommendations for the Development of Legislative A.I. (30 minutes) | Sarah Ryan and Lingzi Hong |              | 
+|                   |  GRAPH-GRPO-LEX: Legal Contracts Graph Modeling via Reinforcement Learning with Group Relative Policy Optimization (30 minutes) | Moriya Dechtiar, et al. |            | 
+|                   |  Legal Argument Mining the TCA’s Technology Undertaking Exception with Turkish BERT (30 minutes) | M. Mikail Demir and M. Abdullah Canbaz |              | 
+|  5:00pm ~  5:10pm |       Closing      |              |              | 
 
 
 
