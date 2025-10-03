@@ -32,7 +32,7 @@ Dr. Dominik Stammbach is a postdoctoral research associate at the Center for Inf
 
 | <div style="width:150px"> Time Slot </div>    | <div style="width:180px">  Activity </div>   |  Speaker   |Moderator   |
 |-------------------|--------------------|--------------| --------------|
-| 1:30pm ~ 1:40pm |       Opening      |              |              |
+| 1:30pm ~ 1:40pm |       Opening      |              |    TBD          |
 | 1:40pm ~ 2:30pm |   [Keynote Speech](https://dominik-stammbach.github.io) | Dr. Dominik Stammbach |Prof. Jiangping Chen |
 | 2:30pm ~ 5:00pm |      Paper Session     |              |Prof. Jiangping Chen |
 |                   |  PatentGRPO: Group Relative Policy Optimization for Patent Text Generation (30 minutes)  | Jieh-Sheng Lee |              | 
@@ -40,7 +40,7 @@ Dr. Dominik Stammbach is a postdoctoral research associate at the Center for Inf
 |                   |  The Challenges of Data Mining and A.I. for State Laws and Legislative Research: Recommendations for the Development of Legislative A.I. (30 minutes) | Sarah Ryan and Lingzi Hong |              | 
 |                   |  GRAPH-GRPO-LEX: Legal Contracts Graph Modeling via Reinforcement Learning with Group Relative Policy Optimization (30 minutes) | Moriya Dechtiar, et al. |            | 
 |                   |  Legal Argument Mining the TCA’s Technology Undertaking Exception with Turkish BERT (30 minutes) | M. Mikail Demir and M. Abdullah Canbaz |              | 
-|  5:00pm ~  5:10pm |       Closing      |              |              | 
+|  5:00pm ~  5:10pm |       Closing      |              |     TBD         | 
 
 
 
