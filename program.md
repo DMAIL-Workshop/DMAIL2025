@@ -35,10 +35,10 @@ Dr. Dominik Stammbach is a postdoctoral research associate at the Center for Inf
 | 1:30pm ~ 1:40pm |       Opening      |              |    TBD          |
 | 1:40pm ~ 2:30pm |   [Keynote Speech](https://dominik-stammbach.github.io) | Dr. Dominik Stammbach |Prof. Jiangping Chen |
 | 2:30pm ~ 5:00pm |      Paper Session     |              |Prof. Jiangping Chen |
-|                   |  PatentGRPO: Group Relative Policy Optimization for Patent Text Generation (30 minutes)  | Jieh-Sheng Lee |              | 
-|                   |  Automatic Coherence-driven Inference on Arguments (30 mintues) | Steve Huntsman |              | 
 |                   |  The Challenges of Data Mining and A.I. for State Laws and Legislative Research: Recommendations for the Development of Legislative A.I. (30 minutes) | Sarah Ryan and Lingzi Hong |              | 
+|                   |  PatentGRPO: Group Relative Policy Optimization for Patent Text Generation (30 minutes)  | Jieh-Sheng Lee |              | 
 |                   |  GRAPH-GRPO-LEX: Legal Contracts Graph Modeling via Reinforcement Learning with Group Relative Policy Optimization (30 minutes) | Moriya Dechtiar, et al. |            | 
+|                   |  Automatic Coherence-driven Inference on Arguments (30 mintues) | Steve Huntsman |              | 
 |                   |  Legal Argument Mining the TCA’s Technology Undertaking Exception with Turkish BERT (30 minutes) | M. Mikail Demir and M. Abdullah Canbaz |              | 
 |  5:00pm ~  5:10pm |       Closing      |              |     TBD         | 
 
@@ -46,8 +46,8 @@ Dr. Dominik Stammbach is a postdoctoral research associate at the Center for Inf
 
 ### **Accepted Papers**
 
-- Jieh-Sheng Lee, "PatentGRPO: Group Relative Policy Optimization for Patent Text Generation"
-- Steve Huntsman, "Automatic Coherence-driven Inference on Arguments"
 - Sarah Ryan and Lingzi Hong, "The Challenges of Data Mining and A.I. for State Laws and Legislative Research: Recommendations for the Development of Legislative A.I."
+- Jieh-Sheng Lee, "PatentGRPO: Group Relative Policy Optimization for Patent Text Generation"
 - Moriya Dechtiar, Daniel Martin Katz, Mari Sundaresan, Sylvain Jaume, and Hongming Wang, "GRAPH-GRPO-LEX: Legal Contracts Graph Modeling via Reinforcement Learning with Group Relative Policy Optimization"
+- Steve Huntsman, "Automatic Coherence-driven Inference on Arguments"
 - M. Mikail Demir and M. Abdullah Canbaz, "Legal Argument Mining the TCA’s Technology Undertaking Exception with Turkish BERT"
