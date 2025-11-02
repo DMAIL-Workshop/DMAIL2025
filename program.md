@@ -37,6 +37,7 @@ In addtion, Dr. Stammbach will address barriers limiting AI adoption for public 
 
 ### **Session Schedule**
 **Date: Friday 14 November 2025 (Eastern Standard Time (EST), USA and Canada)**
+
 **Location: Pan American, 2nd Floor Coatcheck** 
 
 | <div style="width:150px"> Time Slot </div>    | <div style="width:180px">  Activity </div>   |  Speaker   |Moderator   |
