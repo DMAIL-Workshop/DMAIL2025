@@ -42,13 +42,15 @@ In addtion, Dr. Stammbach will address barriers limiting AI adoption for public 
 |-------------------|--------------------|--------------| --------------|
 | 1:30pm ~ 1:40pm |       Opening      |              |    TBD          |
 | 1:40pm ~ 2:30pm |   [Keynote Speech](https://dominik-stammbach.github.io) | Dr. Dominik Stammbach |Prof. Jiangping Chen |
-| 2:30pm ~ 5:00pm |      Paper Session     |              |Prof. Jiangping Chen |
-|                   |  The Challenges of Data Mining and A.I. for State Laws and Legislative Research: Recommendations for the Development of Legislative A.I. (30 minutes) | Sarah Ryan and Lingzi Hong |              | 
-|                   |  PatentGRPO: Group Relative Policy Optimization for Patent Text Generation (30 minutes)  | Jieh-Sheng Lee |              | 
-|                   |  GRAPH-GRPO-LEX: Legal Contracts Graph Modeling via Reinforcement Learning with Group Relative Policy Optimization (30 minutes) | Moriya Dechtiar, et al. |            | 
-|                   |  Automatic Coherence-driven Inference on Arguments (30 mintues) | Steve Huntsman |              | 
-|                   |  Legal Argument Mining the TCA’s Technology Undertaking Exception with Turkish BERT (30 minutes) | M. Mikail Demir and M. Abdullah Canbaz |              | 
-|  5:00pm ~  5:10pm |       Closing      |              |     TBD         | 
+| 2:40pm ~ 3:30pm |      Paper Session 1     |              |Prof. Jiangping Chen |
+|                   |  The Challenges of Data Mining and A.I. for State Laws and Legislative Research: Recommendations for the Development of Legislative A.I. (25 minutes) | Sarah Ryan and Lingzi Hong |              | 
+|                   |  PatentGRPO: Group Relative Policy Optimization for Patent Text Generation (25 minutes)  | Jieh-Sheng Lee |              | 
+| 3:30pm ~ 4:00pm |      Coffee Break     |              |  |
+| 4:00pm ~ 5:15pm |      Paper Session 2     |              |Prof. Jiangping Chen |
+|                   |  GRAPH-GRPO-LEX: Legal Contracts Graph Modeling via Reinforcement Learning with Group Relative Policy Optimization (25 minutes) | Moriya Dechtiar, et al. |            | 
+|                   |  Automatic Coherence-driven Inference on Arguments (25 mintues) | Steve Huntsman |              | 
+|                   |  Legal Argument Mining the TCA’s Technology Undertaking Exception with Turkish BERT (25 minutes) | M. Mikail Demir and M. Abdullah Canbaz |              | 
+|  5:15pm ~  5:25pm |       Closing      |              |     TBD         | 
 
 
 
