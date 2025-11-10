@@ -42,7 +42,7 @@ In addtion, Dr. Stammbach will address barriers limiting AI adoption for public 
 
 | <div style="width:150px"> Time Slot </div>    | <div style="width:180px">  Activity </div>   |  Speaker   |Moderator   |
 |-------------------|--------------------|--------------| --------------|
-| 1:30pm ~ 1:40pm |       Opening      |              |    TBD          |
+| 1:30pm ~ 1:40pm |       Opening      |              |    Prof. Jiangping Chen          |
 | 1:40pm ~ 2:30pm |   [Keynote Speech](https://dominik-stammbach.github.io) - How Can AI Strengthen Indigent Defense? Evidence from Qualitative Interviews and a Collaboration with a Public Defender's Office | Dr. Dominik Stammbach |Prof. Jiangping Chen |
 | 2:40pm ~ 3:30pm |      **Paper Session 1**     |              |Prof. Jiangping Chen |
 |                   |  The Challenges of Data Mining and A.I. for State Laws and Legislative Research: Recommendations for the Development of Legislative A.I. (25 minutes) | Sarah Ryan and Lingzi Hong |              | 
@@ -52,7 +52,7 @@ In addtion, Dr. Stammbach will address barriers limiting AI adoption for public 
 |                   |  GRAPH-GRPO-LEX: Legal Contracts Graph Modeling via Reinforcement Learning with Group Relative Policy Optimization (25 minutes) | Moriya Dechtiar, et al. |            | 
 |                   |  Automatic Coherence-driven Inference on Arguments (25 mintues) | Steve Huntsman |              | 
 |                   |  Legal Argument Mining the TCA’s Technology Undertaking Exception with Turkish BERT (25 minutes) | M. Mikail Demir and M. Abdullah Canbaz |              | 
-|  5:15pm ~  5:25pm |       Closing      |              |     TBD         | 
+|  5:15pm ~  5:25pm |       Closing      |              |     Prof. Jiangping Chen         | 
 
 
 
