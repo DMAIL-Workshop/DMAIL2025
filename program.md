@@ -42,10 +42,10 @@ In addtion, Dr. Stammbach will address barriers limiting AI adoption for public 
 
 | <div style="width:150px"> Time Slot </div>    | <div style="width:180px">  Activity </div>   |  Speaker   |Moderator   |
 |-------------------|--------------------|--------------| --------------|
-| 1:30pm ~ 1:40pm |       Opening      |              |    Prof. Jiangping Chen          |
+| 1:30pm ~ 1:40pm |       [Opening](slides/opening.pptx)      |              |    Prof. Jiangping Chen          |
 | 1:40pm ~ 2:30pm |   [Keynote Speech](https://dominik-stammbach.github.io) - How Can AI Strengthen Indigent Defense? Evidence from Qualitative Interviews and a Collaboration with a Public Defender's Office | Dr. Dominik Stammbach |Prof. Jiangping Chen |
 | 2:40pm ~ 3:30pm |      **Paper Session 1**     |              |Prof. Jiangping Chen |
-|                   |  The Challenges of Data Mining and A.I. for State Laws and Legislative Research: Recommendations for the Development of Legislative A.I. (25 minutes) | Sarah Ryan and Lingzi Hong |              | 
+|                   |  [The Challenges of Data Mining and A.I. for State Laws and Legislative Research: Recommendations for the Development of Legislative A.I.](slides/Ryan.pdf) (25 minutes) | Sarah Ryan and Lingzi Hong |              | 
 | | [PatentGRPO: Group Relative Policy Optimization for Patent Text Generation (25 minutes)](slides/PatentGRPO.pdf) | Jieh-Sheng Lee | |
 | 3:30pm ~ 4:00pm |      **Coffee Break**     |              |  |
 | 4:00pm ~ 5:15pm |      **Paper Session 2**     |              |Prof. Jiangping Chen |
