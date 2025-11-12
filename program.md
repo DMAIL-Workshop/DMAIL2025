@@ -46,11 +46,11 @@ In addtion, Dr. Stammbach will address barriers limiting AI adoption for public 
 | 1:40pm ~ 2:30pm |   [Keynote Speech](https://dominik-stammbach.github.io) - How Can AI Strengthen Indigent Defense? Evidence from Qualitative Interviews and a Collaboration with a Public Defender's Office | Dr. Dominik Stammbach |Prof. Jiangping Chen |
 | 2:40pm ~ 3:30pm |      **Paper Session 1**     |              |Prof. Jiangping Chen |
 |                   |  The Challenges of Data Mining and A.I. for State Laws and Legislative Research: Recommendations for the Development of Legislative A.I. (25 minutes) | Sarah Ryan and Lingzi Hong |              | 
-| | [PatentGRPO: Group Relative Policy Optimization for Patent Text Generation (25 minutes)](slides/Huntsman.pdf) | Jieh-Sheng Lee | |
+| | [PatentGRPO: Group Relative Policy Optimization for Patent Text Generation (25 minutes)](slides/PatentGRPO.pdf) | Jieh-Sheng Lee | |
 | 3:30pm ~ 4:00pm |      **Coffee Break**     |              |  |
 | 4:00pm ~ 5:15pm |      **Paper Session 2**     |              |Prof. Jiangping Chen |
 |                   |  GRAPH-GRPO-LEX: Legal Contracts Graph Modeling via Reinforcement Learning with Group Relative Policy Optimization (25 minutes) | Moriya Dechtiar, et al. |            | 
-|                   |  Automatic Coherence-driven Inference on Arguments (25 mintues) | Steve Huntsman |              | 
+|                   |  [Automatic Coherence-driven Inference on Arguments (25 mintues)](slides/Huntsman.pdf) | Steve Huntsman |              | 
 |                   |  Legal Argument Mining the TCA’s Technology Undertaking Exception with Turkish BERT (25 minutes) | M. Mikail Demir and M. Abdullah Canbaz |              | 
 |  5:15pm ~  5:25pm |       Closing      |              |     Prof. Jiangping Chen         | 
 
