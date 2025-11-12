@@ -51,7 +51,7 @@ In addtion, Dr. Stammbach will address barriers limiting AI adoption for public 
 | 4:00pm ~ 5:15pm |      **Paper Session 2**     |              |Prof. Jiangping Chen |
 |                   |  GRAPH-GRPO-LEX: Legal Contracts Graph Modeling via Reinforcement Learning with Group Relative Policy Optimization (25 minutes) | Moriya Dechtiar, et al. |            | 
 |                   |  [Automatic Coherence-driven Inference on Arguments (25 mintues)](slides/Huntsman.pdf) | Steve Huntsman |              | 
-|                   |  Legal Argument Mining the TCA’s Technology Undertaking Exception with Turkish BERT (25 minutes) | M. Mikail Demir and M. Abdullah Canbaz |              | 
+|                   |  [Legal Argument Mining the TCA’s Technology Undertaking Exception with Turkish BERT (25 minutes)](slides/Demir.pptx) | M. Mikail Demir and M. Abdullah Canbaz |              | 
 |  5:15pm ~  5:25pm |       Closing      |              |     Prof. Jiangping Chen         | 
 
 
